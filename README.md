@@ -3,7 +3,9 @@
   <br>
   <h1 align="center">FaceDown</h1>
 </p>
-## this is modified version please reffer original if feel buggy
+
+## this is modified version please reffer original if feel buggy..
+
 <p align="center">
 <a href='https://play.google.com/store/apps/details?id=com.arekb.facedown'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/>
