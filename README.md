@@ -113,3 +113,5 @@ com.arekb.facedown
 
 ### Contact
 [LinkedIn Profile](https://www.linkedin.com/in/arkadiusz-bauer/) | [Portfolio Website](https://arekbauer.com)
+
+## this is ARCHITECTURAL INHASMENT PROJECT VIA ANDROID STUDIO
