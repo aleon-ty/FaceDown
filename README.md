@@ -4,6 +4,7 @@
   <h1 align="center">FaceDown</h1>
 </p>
 
+<p align="center">
 ## this is modified version please reffer original if feel buggy..
 
 <p align="center">
