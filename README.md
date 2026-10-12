@@ -15,15 +15,8 @@
 
 > **Note**: This repository is a technical showcase for a private productivity application called "FaceDown". It contains sanitized snippets of the core engineering challenges to demonstrate architectural and technical capabilities.
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=iY3FBMTA15A&t=327s">
-    <img src="https://img.youtube.com/vi/iY3FBMTA15A/0.jpg" width="600px" alt="FaceDown featured on HowToMen" />
-  </a>
-  <br>
-  <i>Featured in <b>HowToMen's</b> "Top 15 Best Android Apps" - "Honestly a really great app to help you stay more productive."</i>
-</p>
-
 ---
+
 FaceDown is a minimal timer that enforces focus by requiring the user to place their phone **face down** on a table. If the phone is picked up or flipped over, the timer pauses, ensuring a distraction-free environment.  
 
 <p align="center">
